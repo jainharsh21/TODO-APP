@@ -1,16 +1,13 @@
-# todo_app
+# ToDo App
 
-A new Flutter project.
+## About The App
 
-## Getting Started
+A basic to-do list app developed with the help of flutter and sqflite.
+You can add an item to to-do list by clicking on the floating action button on the bottom right of the app.
+To modify/update the item,long press that item.
+You can delete the item from the list once you've completed the task by clicking on the button on the far right of the list.
 
-This project is a starting point for a Flutter application.
+## Screenshot
 
-A few resources to get you started if this is your first Flutter project:
+![WhatsApp Image 2019-10-19 at 4 01 10 PM](https://user-images.githubusercontent.com/44740658/67143514-c620f200-f289-11e9-9c72-06140b1d10ae.jpeg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
