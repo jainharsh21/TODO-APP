@@ -9,7 +9,10 @@ You can delete the item from the list once you've completed the task by clicking
 
 ## Working
 
-### Long press to update the item in the list and click on the icon button on the far-right to delete it.
+#### Long press to update the item in the list and click on the icon button on the far-right to delete it.
+
+![ToDo](https://user-images.githubusercontent.com/44740658/67265272-f1deea80-f4ca-11e9-8fdc-d18f9eb91ed8.gif)
+
 
 
 
